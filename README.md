@@ -6,21 +6,19 @@ Full Stack Web Developer
 
 🌍  I'm based in Kazakhstan originally, living in Germany since 2013 and working in IT since 2021. I’m currently completing my training as an IT Specialist for Application Development, where I develop full‑stack applications using C#, ASP.NET Core, SQL, and modern frontend technologies like React and TypeScript. I enjoy building clean, reliable solutions and working across the stack to turn ideas into working software.
 
-<p align="left">
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" />
+<div align="left">
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" />
   </a>
-</p>
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" />
+  
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" />
   </a>
-</p>
-<p align="left">
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" />
+  
+  <a href="https://www.oracle.com/java/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" />
   </a>
-</p>
+</div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
