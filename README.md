@@ -6,7 +6,7 @@ Full Stack Web Developer
 
 🌍  I'm based in Kazakhstan originally, living in Germany since 2013 and working in IT since 2021. I’m currently completing my training as an IT Specialist for Application Development, where I develop full‑stack applications using C#, ASP.NET Core, SQL, and modern frontend technologies like React and TypeScript. I enjoy building clean, reliable solutions and working across the stack to turn ideas into working software.
 
-<div align="left">
+<p align="left">
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" />
   </a>
@@ -81,7 +81,7 @@ Full Stack Web Developer
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" />
   </a>
-</div>
+</p>
 
 
 
